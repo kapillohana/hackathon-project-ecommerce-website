@@ -30,7 +30,7 @@ const ForthSection = () => {
       {/* Middle Section (Image) */}
       <div className="w-full md:w-[35%] flex items-center justify-center bg-[#fcf8f3]">
         <img
-          src="/images/image.png"
+          src="/images/slide.png"
           alt="Image"
           className="w-full h-auto rounded"
         />
