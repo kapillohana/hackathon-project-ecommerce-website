@@ -2,7 +2,6 @@ import Link from "next/link";
 import Image from "next/image";
 import NavIcons from "./NavIcons";
 import Menu from "./MobNav";
-import Home from "@/app/Shop/page";
 
 const Header = () => {
   return (

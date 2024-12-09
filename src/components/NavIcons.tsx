@@ -5,7 +5,6 @@ import { FiSearch } from "react-icons/fi";
 import { FaRegHeart } from "react-icons/fa6";
 import { MdOutlineShoppingCart } from "react-icons/md";
 import Link from "next/link";
-import Cart from "./Cart";
 
 const NavIcons = () => {
   return (
