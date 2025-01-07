@@ -14,7 +14,7 @@ const HomePage = () => {
     <>
       <div className="w-full h-[720px] bg-slate-600 relative">
         <Image
-          src="/images/hero.png"
+          src="/images/hero-img.png"
           alt="Logo"
           width={1000}
           height={720}
@@ -47,7 +47,7 @@ const HomePage = () => {
   <div className="flex flex-wrap justify-center gap-5 pt-[2.5rem]">
     <div className="flex flex-col items-center w-full sm:w-[48%] md:w-[30%] lg:w-[22%]">
       <Image
-        src="/images/pic1.png"
+        src="/images/Pic1.png"
         alt="display1"
         className=" rounded-xl w-full h-auto"
         layout="responsive"
