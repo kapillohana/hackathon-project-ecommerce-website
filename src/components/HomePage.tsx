@@ -47,7 +47,7 @@ const HomePage = () => {
   <div className="flex flex-wrap justify-center gap-5 pt-[2.5rem]">
     <div className="flex flex-col items-center w-full sm:w-[48%] md:w-[30%] lg:w-[22%]">
       <Image
-        src="/images/Pic1.png"
+        src="/images/img1.png"
         alt="display1"
         className=" rounded-xl w-full h-auto"
         layout="responsive"
@@ -61,7 +61,7 @@ const HomePage = () => {
 
     <div className="flex flex-col items-center w-full sm:w-[48%] md:w-[30%] lg:w-[22%]">
       <Image
-        src="/images/pic2.png"
+        src="/images/img2.png"
         alt="display2"
         className=" rounded-xl w-full h-auto"
         layout="responsive"
@@ -75,7 +75,7 @@ const HomePage = () => {
 
     <div className="flex flex-col items-center w-full sm:w-[48%] md:w-[30%] lg:w-[22%]">
       <Image
-        src="/images/pic3.png"
+        src="/images/img3.png"
         alt="display3"
         className=" rounded-xl w-full h-auto"
         layout="responsive"
